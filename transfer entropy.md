@@ -18,9 +18,10 @@ There is a large number of estimators of entropy, for details please see Refs. [
 
 
 
+## 互信息&互信息率
+基于互信息来计算特征向量之间的相似度，进而使用层级聚类来构建层级网络。
 
-
-
+互信息metricx参考：https://scikit-learn.org/stable/modules/clustering.html
 
 
 
